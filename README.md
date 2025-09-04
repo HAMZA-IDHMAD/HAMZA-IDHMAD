@@ -18,5 +18,3 @@ const HAMZA_IDHMAD = {
 };
 
 console.log(`Hello World! I’m ${HAMZA_IDHMAD.intro}, let's build something amazing together!`);
-
-
